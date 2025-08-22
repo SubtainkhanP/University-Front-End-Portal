@@ -9,7 +9,7 @@ body{
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(assets/Images/MSK\ Uni\ Front\ Gate.jpg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(assets/Images/MSK Uni Front Gate.jpg);
     background-position: center;
     background-size: cover;
     background-position: relative;
@@ -302,12 +302,12 @@ h3{
     width: 80px;
     height: 80px;
     z-index: 10;
-    background-image: url(assets/Images/Alumni\ 1.JPG);
+    background-image: url(assets/Images/Alumni 1.JPG);
     background-size: cover;
     border-radius: 50%;
 }
 .img1{
-    background-image: url(assets/Images/Alumni\ 2.jpg);
+    background-image: url(assets/Images/Alumni 2.jpg);
 }
 .testimonial-col img{
   height: 100px;
@@ -371,7 +371,7 @@ h3{
 .sub-header{
     height: 80vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(assets/Images/About\ Us.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(assets/images/About Us.png);
     background-position: center;
     background-size: cover;
     text-align: center;
