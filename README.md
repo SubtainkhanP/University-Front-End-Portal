@@ -37,8 +37,14 @@ The project covers the development of a **multi-page university website** with t
 The website aims to be **informative, engaging, and accessible** to a diverse global audience.  
 
 ---
-## 🛠️ Live Demo
- [ Clcik Me for live demo]()
+## 🛠️ Images
+ <img width="1843" height="836" alt="image" src="https://github.com/user-attachments/assets/bc33dbb0-999d-4732-8cec-0b1886e90a93" />
+ <img width="1899" height="838" alt="image" src="https://github.com/user-attachments/assets/690a1055-7a77-493e-acd1-fb023f7fa5c1" />
+<img width="1897" height="838" alt="image" src="https://github.com/user-attachments/assets/e9af3823-caa4-4a4b-a5b4-68d7e233483e" />
+
+
+
+
 
 --- 
 ## 🛠️ Tech Stack
